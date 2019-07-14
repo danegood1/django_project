@@ -1,4 +1,4 @@
-# django_project
+# Django Blog
 
 To run project:
 
