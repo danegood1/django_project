@@ -1,12 +1,10 @@
-# Django Blog
+Django Blog
 
 To run project:
 
-Open manage.py in Terminal run command:
-
-python manage.py runserver
-
-Run the development server http://... 
+* Open manage.py in Terminal run command:
+  python manage.py runserver
+* Run the devlopment server
 
 Preview Image:
 
