@@ -8,4 +8,4 @@
 
 ## Preview Image:
 
-![django_blog](https://user-images.githubusercontent.com/28485791/61068988-9f8e2800-a40b-11e9-8fc6-99704bafd052.jpg)
+![django_blog](https://user-images.githubusercontent.com/28485791/61396532-39504c00-a8c8-11e9-805b-d0c2a804ac49.png)
