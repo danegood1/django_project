@@ -31,8 +31,8 @@ ALLOWED_HOSTS = ["twitter-blog.herokuapp.com"]
 # Application definition
 
 INSTALLED_APPS = [
-    'blog',
-    'users',
+    'blog.apps.BlogConfig',
+    'users.apps.UsersConfig',
     'crispy_forms',
     'django.contrib.admin',
     'django.contrib.auth',
