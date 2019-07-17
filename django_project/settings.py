@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["twitter-blog.herokuapp.com"]
 
+
 # Application definition
 
 INSTALLED_APPS = [
@@ -56,7 +57,7 @@ ROOT_URLCONF = 'django_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["os.path.join(SETTINGS_PATH, 'templates')"],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
