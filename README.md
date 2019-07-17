@@ -1,4 +1,4 @@
-# Django Blog
+# Django Twitter App
 
 ## Run project:
 
